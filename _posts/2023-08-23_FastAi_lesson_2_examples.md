@@ -10,7 +10,7 @@ from fastai.vision.all import *
 import fastai
 ```
 ```python
-# This is needed when you work with google colab, local python envioroment or alike where the envioroment that your work in doesn't have that package installed.
+# This is needed when you work with google colab, local python envioroment or alike where the envioroment that your code is in doesn't have that package installed.
 # This is not needed if you host the code in HugginFace, because gradio package is already installed there.
 pip install gradio
 ```
