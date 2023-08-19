@@ -1,4 +1,4 @@
-# FastAi Deep Learning for coders lesson 2 (deployment examples using Gradio and HuggingFace)
+# FastAi Deep Learning for coders lesson 2 (deployment examples using Gradio and HuggingFace) - In progreess. 
 
 ## Preface
 In this post I will give examples of:
