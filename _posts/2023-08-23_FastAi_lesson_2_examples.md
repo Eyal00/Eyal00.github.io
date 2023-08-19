@@ -26,8 +26,10 @@ There is an attached fine tuned model, so you can load it and skip the fine tuni
 ```python
 learn_inf = load_learner('/content/drive/MyDrive/Colab Notebooks/oxford-iiit-pet/model.pkl') # load the model.
 ```
-To make a test image, search and download an image from google o whatever internet browser you use, that fits one of the dog breed categories defined in Oxford-IIIT Pet Dataset https://www.robots.ox.ac.uk/~vgg/data/pets/
+To make a test image, search and download an image from google or whatever internet browser you use, that fits one of the dog breed categories defined in Oxford-IIIT Pet Dataset https://www.robots.ox.ac.uk/~vgg/data/pets/
 This image should be the test image for the model to predict. make sure to name the downloaded image as test.jpg.
+
+
 
 Lastly I want to make a GUI to the predictor so that I can input it the test image that I doanloaded, press a button and see the predicted category in the GUI. 
 ```python
